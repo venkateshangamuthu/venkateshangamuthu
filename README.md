@@ -79,7 +79,7 @@ Currently exploring **JavaScript, React, strengthening my C++,java**.
 |----------|----------------|------------|
 | **LeetCode** | 50+ | 1476 |
 | **CodeChef** | 350+ | 1331 |
-| **CodeForces** | 10+ |928| 
+| **CodeForces** | 10+ |1095| 
 
 
 ##  GitHub Analytics
