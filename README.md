@@ -77,8 +77,8 @@ Currently exploring **JavaScript, React, strengthening my C++,java**.
 
 | Platform | Problems Solved | Max Rating |
 |----------|----------------|------------|
-| **LeetCode** | 50+ | 1476 |
-| **CodeChef** | 350+ | 1331 |
+| **LeetCode** | 300+ | 1485 |
+| **CodeChef** | 400+ | 1331 |
 | **CodeForces** | 10+ |1095| 
 
 
