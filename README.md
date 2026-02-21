@@ -73,7 +73,7 @@ Currently exploring **JavaScript, React, strengthening my C++,java**.
 
 ##  DSA & Problem Solving Achievements
 
-###  **386+ Problems Solved Across Platforms**
+###  **700+ Problems Solved Across Platforms**
 
 | Platform | Problems Solved | Max Rating |
 |----------|----------------|------------|
