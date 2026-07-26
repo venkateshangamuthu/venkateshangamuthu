@@ -121,6 +121,17 @@ Smart Android application that utilizes camera integration to monitor food waste
 Web application built to assist parents in monitoring and managing daily activities, featuring a responsive user interface and real-time interaction.
 
 </td>
+<td width="50%" valign="top">
+
+### 🛒 [E-COMMERCE](https://github.com/venkateshangamuthu/E-COMMERCE)
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+Web-based e-commerce platform built to browse product catalogs, handle shopping items, and provide an interactive frontend shopping experience.
+
+</td>
 
 </tr>
 </table>
