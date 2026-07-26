@@ -65,7 +65,7 @@ Currently exploring **JavaScript, React, strengthening my C++,java**.
 
 ## Featured Projects  
 
-<table align="center" width="100%">
+<!-- <table align="center" width="100%">
   <tr>
     <th>Project</th>
     <th>Description</th>
@@ -73,8 +73,57 @@ Currently exploring **JavaScript, React, strengthening my C++,java**.
     <th>Link</th>
   </tr>
   
-</table>
+</table> -->
+## 🚀 Featured Builds
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🩺 CareConnect
+
+[Repository ↗](https://github.com/venkateshangamuthu/CareConnect)
+
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+Smart donation management platform connecting donors and orphanages with secure online payment integration.
+Enhances donor trust through expense tracking, income visualization, and transparent financial reporting.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🥗 Food Waste Reducer
+
+[Repository ↗](https://github.com/venkateshangamuthu/foodwastereduser)
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![AI/Vision](https://img.shields.io/badge/-Computer_Vision-FF6F00?style=flat-square)
+
+Smart Android application that utilizes camera integration to monitor food waste, running analytics to track and reduce wasted food.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 👨‍👩‍👧 ParentPlus
+
+[Repository ↗](https://github.com/venkateshangamuthu/Parentplus)
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+Web application built to assist parents in monitoring and managing daily activities, featuring a responsive user interface and real-time interaction.
+
+</td>
+
+</tr>
+</table>
 
 ##  DSA & Problem Solving Achievements
 
