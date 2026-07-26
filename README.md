@@ -122,7 +122,9 @@ Currently exploring **JavaScript, React, strengthening my C++,java**.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=venkateshangamuthu&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=venkateshangamuthu&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
 
 </div>
 
