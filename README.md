@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=speech&height=300&text=Venkatesh%20A&desc=AI-Engineer|%20Full Stack-Developer%20" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=speech&height=300&text=Venkatesh%20A&desc=AI-Engineer%20-%20Full%20Stack%20Developer" alt="Header" />
+
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=217397&width=435&lines=Full-Stack+Developer+%7CData+scientist" alt="Typing SVG" /></a>
 </div>
@@ -15,7 +16,7 @@
 
 <div align="center">
 
- Developer and **fast learner** passionate about building **full-stack application** , **AI - Engineer** and improving my **DSA skills**.
+ Developer and **fast learner** passionate about building **full-stack application**  Aspiring **AI - Engineer** and improving my **DSA skills**.
 Currently exploring **JavaScript, React, strengthening my C++,java**.
 </div>  
 
