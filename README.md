@@ -160,17 +160,13 @@ Web-based e-commerce platform built to browse product catalogs, handle shopping 
 </div>
 
 
-<div align="center">
+ <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=venkateshangamuthu&theme=dark&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=FFFFFF" alt="GitHub Streak" />
+<img src="./profile/stats.svg" alt="GitHub Stats" />user=venkateshangamuthu&theme=dark&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=FFFFFF" alt="GitHub Streak" />
 
-</div>
+</div> 
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=venkateshangamuthu&theme=react-dark&hide_border=true&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=FFFFFF&area=true&area_color=8B5CF6&title_color=8B5CF6" alt="Activity Graph" />
-
-</div>
+<img src="./profile/top-langs.svg" alt="Top Languages" />
 
 <div align="center">
 
