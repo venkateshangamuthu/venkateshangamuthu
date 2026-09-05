@@ -191,14 +191,13 @@ Web-based e-commerce platform built to browse product catalogs, handle shopping 
 
 ##  GitHub Trophies
 
-<div align="center">
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=venkateshangamuthu&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
+
+<img src="https://github-profile-trophy.vercel.app/?username=venkateshangamuthu&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 
 </div>
-
 ---
 
 ##  Currently Learning  
