@@ -147,16 +147,17 @@ Web-based e-commerce platform built to browse product catalogs, handle shopping 
 | **CodeChef** | 500+ | 1431 |
 | **CodeForces** | 15+ |1095| 
 
-
-##  GitHub Analytics
+<!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=venkateshangamuthu&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&icon_color=8B5CF6&ring_color=8B5CF6&border_color=8B5CF6" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkateshangamuthu&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&border_color=8B5CF6" alt="Top Languages" /> -->
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=venkateshangamuthu&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&icon_color=8B5CF6&ring_color=8B5CF6&border_color=8B5CF6" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkateshangamuthu&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&border_color=8B5CF6" alt="Top Languages" /> -->
-<img src="https://github-readme-stats.vercel.app/api?username=venkateshangamuthu&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&icon_color=8B5CF6&ring_color=8B5CF6&border_color=8B5CF6" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=venkateshangamuthu&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&icon_color=8B5CF6&ring_color=8B5CF6" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkateshangamuthu&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&border_color=8B5CF6" alt="Top Languages" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkateshangamuthu&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF" alt="Top Languages" />
+
+</div>
 
 </div>
 
