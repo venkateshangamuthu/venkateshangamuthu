@@ -143,7 +143,7 @@ Web-based e-commerce platform built to browse product catalogs, handle shopping 
 
 | Platform | Problems Solved | Max Rating |
 |----------|----------------|------------|
-| **LeetCode** | 550+ | 1603 |
+| **LeetCode** | 570+ | 1648 |
 | **CodeChef** | 500+ | 1431 |
 | **CodeForces** | 15+ |1095| 
 
